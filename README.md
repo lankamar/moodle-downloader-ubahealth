@@ -1,6 +1,13 @@
+> [!Warning]
+> Archiving this repo as I’m no longer able to maintain it. Feel free to fork it - happy open sourcing!
+
+<br/>
+<br/>
+
+
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/moodle-downloader/ohhocacnnfaiphiahofcnfakdcfldbnh">
-  <img src="assets/icon512.png" width="128" height="128">
+  <img src="assets/icon512.png" width="64" height="64">
   </a>
 <h3 align="center">MoodleDownloader</h3>
 <p align="center">A chrome extension for batch downloading Moodle resources.</p>
@@ -16,6 +23,7 @@
     <img src="https://img.shields.io/chrome-web-store/users/ohhocacnnfaiphiahofcnfakdcfldbnh?color=yellow" alt="Chrome Web Store" />
   </a>
 </p>
+
 
 ## Installation 💻
 
