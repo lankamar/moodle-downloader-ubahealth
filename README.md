@@ -100,4 +100,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## About This Fork 🔀
+
+This is a personalized fork of [harsilspatel/moodle-downloader](https://github.com/harsilspatel/moodle-downloader), modified and extended specifically for UBA medical education programs.
+
+### Modifications
+
+- Extended manifest configuration for UBA institutional requirements
+- Enhanced compatibility with UBA's Moodle instance
+- Optimized for medical education resource types
+
+### Credits
+
+All original code and functionality is from the excellent work by [Harsil S. Patel](https://github.com/harsilspatel) and all contributors to the [original moodle-downloader project](https://github.com/harsilspatel/moodle-downloader).
+
+This fork maintains the same [MIT License](LICENSE.md) as the original project.
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
