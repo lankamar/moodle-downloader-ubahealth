@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Moodle Downloader - UBA Medical Education",
   "description": "Chrome extension for batch downloading Moodle resources",
   "version": "1.5.3",
@@ -12,13 +12,17 @@
     "256": "assets/icon256.png",
     "512": "assets/icon512.png"
   },
-  "browser_action": {
+  "action": {
     "default_popup": "src/popup.html"
   },
-  "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
   "permissions": [
     "activeTab",
     "downloads",
     "storage"
+  ],
+  "host_permissions": [
+    "*://moodle.vle.monash.edu/*",
+    "*://*.moodle.org/*",
+    "*://moodle.uba.ar/*"
   ]
 }
